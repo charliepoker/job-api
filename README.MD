@@ -1,3 +1,5 @@
+An Api where users can Register, Login and manage their search.
+
 #### Setup
 
 ```bash
